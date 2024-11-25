@@ -123,21 +123,6 @@
 
 <br>
 
-### 📝 [메모장]
-
-**💡 떠오르는 아이디어나 중요한 용어를 간편하게 기록. 창작 중 생각나는 모든 것을 잊지 않고 저장하세요!**
-
-<table width="100%">
-  <tr>
-    <td align="center" width="50%"><b>메모장</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/cbd985b7-0a68-4dab-abe5-b1a20d03cd63' style="width:100%; height:auto;"></td>
-  </tr>
-</table>
-
-<br>
-
 ### 🗑️ 휴지통
 
 **♻️ 작업한 폴더 및 파일 복원 기능**
@@ -149,7 +134,7 @@
     <td align="center" width="50%"><b>휴지동</b></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/cbd985b7-0a68-4dab-abe5-b1a20d03cd63' style="width:100%; height:auto;"></td>
+    <td align="center" width="50%"><img src='https://github.com/user-attachments/assets/2854256a-05f2-41f7-8029-a8fe140da305' style="width:100%; height:auto;"></td>
   </tr>
 </table>
 
@@ -168,33 +153,99 @@
 ## 👥 Developers
 
 <br/>
+
 <div align="center">
-    <table border=""6 width="50%">
-        <tr>
-            <th style="text-align: center;" colspan="1">FrontEnd</th>
-            <th style="text-align: center;" colspan="2">FrontEnd & BackEnd</th>
-            <th style="text-align: center;" colspan="3">Backend & AI</th>
-            <th style="text-align: center;" colspan="1">Backend & AI & Infra</th>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://github.com/Huon0423"><img src="https://avatars.githubusercontent.com/u/97392183?v=4" width="180px;" style="vertical-align:top" alt=""></td>
-            <td align="center"><a href="https://github.com/minju412"><img src="https://avatars.githubusercontent.com/u/59405576?v=4" width="180px;" style="vertical-align:top" alt=""></td>
-            <td align="center"><a href="https://github.com/hoshogi"><img src="https://avatars.githubusercontent.com/u/71253970?v=4" width="180px;" style="vertical-align:top" alt=""></td>
-            <td align="center"><a href="https://github.com/noxknow"><img src="https://avatars.githubusercontent.com/u/122594223?v=4" width="180px;" style="vertical-align:top" alt=""></td>
-            <td align="center"><a href="https://github.com/chwangmin"><img src="https://avatars.githubusercontent.com/u/44563065?v=4" width="180px;" style="vertical-align:top" alt=""></td>
-            <td align="center"><a href="https://github.com/Han-u"><img src="https://avatars.githubusercontent.com/u/55799117?v=4" width="180px;" style="vertical-align:top" alt=""></td>
-            <td align="center"><a href="https://github.com/given-dragon"><img src="https://avatars.githubusercontent.com/u/58273261?v=4" width="180px;" style="vertical-align:top" alt=""></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://github.com/Huon0423">조윤정</td>
-            <td align="center"><a href="https://github.com/minju412">최민주</td>
-            <td align="center"><a href="https://github.com/hoshogi">이호석</td>
-            <td align="center"><a href="https://github.com/noxknow">이치왕</td>
-            <td align="center"><a href="https://github.com/chwangmin">최광민</td>
-            <td align="center"><a href="https://github.com/Han-u">한소연</td>
-            <td align="center"><a href="https://github.com/given-dragon">이준용</td>
-        </tr>
-    </table>
+<table border="0" width="50%">
+    <tr>
+        <th colspan="7" style="text-align: center; border-bottom: 2px solid #grey">👥 Team Members</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/Huon0423">
+                <img src="https://avatars.githubusercontent.com/u/97392183?v=4" width="100px;" alt="">
+                <br>
+                <sub><b>조윤정</b></sub>
+            </a>
+            <br>
+            <sub>
+                <img src="https://img.shields.io/badge/-Frontend-red"/>
+            </sub>
+        </td>
+        <td align="center">
+            <a href="https://github.com/minju412">
+                <img src="https://avatars.githubusercontent.com/u/59405576?v=4" width="100px;" alt="">
+                <br>
+                <sub><b>최민주</b></sub>
+            </a>
+            <br>
+            <sub>
+                <img src="https://img.shields.io/badge/-Frontend-red"/>
+                <img src="https://img.shields.io/badge/-Backend-blue"/>
+            </sub>
+        </td>
+        <td align="center">
+            <a href="https://github.com/hoshogi">
+                <img src="https://avatars.githubusercontent.com/u/71253970?v=4" width="100px;" alt="">
+                <br>
+                <sub><b>이호석</b></sub>
+            </a>
+            <br>
+            <sub>
+                <img src="https://img.shields.io/badge/-Frontend-red"/>
+                <img src="https://img.shields.io/badge/-Backend-blue"/>
+            </sub>
+        </td>
+        <td align="center">
+            <a href="https://github.com/noxknow">
+                <img src="https://avatars.githubusercontent.com/u/122594223?v=4" width="100px;" alt="">
+                <br>
+                <sub><b>이치왕</b></sub>
+            </a>
+            <br>
+            <sub>
+                <img src="https://img.shields.io/badge/-Backend-blue"/>
+                <img src="https://img.shields.io/badge/-AI-green"/>
+            </sub>
+        </td>
+        <td align="center">
+            <a href="https://github.com/chwangmin">
+                <img src="https://avatars.githubusercontent.com/u/44563065?v=4" width="100px;" alt="">
+                <br>
+                <sub><b>최광민</b></sub>
+            </a>
+            <br>
+            <sub>
+                <img src="https://img.shields.io/badge/-Backend-blue"/>
+                <img src="https://img.shields.io/badge/-AI-green"/>
+            </sub>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Han-u">
+                <img src="https://avatars.githubusercontent.com/u/55799117?v=4" width="100px;" alt="">
+                <br>
+                <sub><b>한소연</b></sub>
+            </a>
+            <br>
+            <sub>
+                <img src="https://img.shields.io/badge/-Backend-blue"/>
+                <img src="https://img.shields.io/badge/-AI-green"/>
+            </sub>
+        </td>
+        <td align="center">
+            <a href="https://github.com/given-dragon">
+                <img src="https://avatars.githubusercontent.com/u/58273261?v=4" width="100px;" alt="">
+                <br>
+                <sub><b>이준용</b></sub>
+            </a>
+            <br>
+            <sub>
+                <img src="https://img.shields.io/badge/-Backend-blue"/>
+                <img src="https://img.shields.io/badge/-AI-green"/>
+                <img src="https://img.shields.io/badge/-Infra-yellow"/>
+            </sub>
+        </td>
+    </tr>
+</table>
 </div>
 
 <br>
